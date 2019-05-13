@@ -1,6 +1,8 @@
 # GTK-System-Tray-Template
 Simple template to help create GTK System Tray applications. 
+
 Check this too [GTK+ 3 Reference Manual](https://developer.gnome.org/gtk3/stable/index.html)
+
 More Template [Glade GTK Template](https://github.com/catzy007/Glade-GTK-Template)
 
 ## Dependency
