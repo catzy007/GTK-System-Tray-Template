@@ -1,3 +1,0 @@
-/home/catzy/Ngoprek/GTK-Tray/build/CMakeFiles/rebuild_cache.dir
-/home/catzy/Ngoprek/GTK-Tray/build/CMakeFiles/template.dir
-/home/catzy/Ngoprek/GTK-Tray/build/CMakeFiles/edit_cache.dir
